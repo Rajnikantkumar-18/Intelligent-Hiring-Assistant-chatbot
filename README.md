@@ -1,5 +1,5 @@
 # Intelligent-Hiring-Assistant-chatbot
-# 🤖 TalentScout Hiring Assistant Chatbot
+# 🤖 Intelligent Hiring Assistant Chatbot
 
 ## 📌 Project Overview
 
